@@ -1,0 +1,19 @@
+{
+	"puntuacion":
+	{
+		"actual": "Score",
+		"mejor": "Highest score"
+	},
+
+	"tutorial":
+	{
+		"paso1" : "Hold pushed to rotate the line",
+		"paso2" : "Release to stretch the line and connect with the node"
+	},
+
+	"twitter":
+	{
+		"texto1" : "Look at my score of ",
+		"texto2" : " in #Strokes!"
+	}
+}

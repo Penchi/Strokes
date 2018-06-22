@@ -1,0 +1,19 @@
+{
+	"puntuacion":
+	{
+		"actual": "Puntuacion",
+		"mejor": "Mejor puntuacion"
+	},
+
+	"tutorial":
+	{
+		"paso1" : "Manten presionado para girar la linea",
+		"paso2" : "Suelta para estirar la linea y conectar con el nodo"
+	},
+	
+	"twitter":
+	{
+		"texto1" : "Mira mi puntaje de ",
+		"texto2" : " en #Strokes!"
+	}
+}
